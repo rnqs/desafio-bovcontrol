@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "MilkControl",
+    "slug": "milkcontrol",
+    "version": "1.0.0",
+    "jsEngine": "hermes",
+    "sdkVersion": "47.0.0",
+    "entryPoint": "./index.js",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#309FEC"
+    },
+    "platforms": ["ios", "android"],
+    "ios": {
+      "bundleIdentifier": "dev.rnqs.MilkControl"
+    },
+    "android": {
+      "package": "dev.rnqs.MilkControl"
+    }
+  }
+}
